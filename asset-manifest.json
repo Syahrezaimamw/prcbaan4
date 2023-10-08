@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/prcbaan4/static/css/main.2b306b6c.css",
+    "main.js": "/prcbaan4/static/js/main.d3ea40a5.js",
+    "static/media/WhatsApp-about.png": "/prcbaan4/static/media/WhatsApp-about.5bfe0317626343ba384b.png",
+    "static/media/Aplikasi-Belajar-Online-yang-Lengkap-Praktis-dan-Asyik.jpg": "/prcbaan4/static/media/Aplikasi-Belajar-Online-yang-Lengkap-Praktis-dan-Asyik.b0372a298dcd8a1f45ab.jpg",
+    "static/media/manusia.png": "/prcbaan4/static/media/manusia.69dfb5057b8292f3fa2e.png",
+    "static/media/oyang.png": "/prcbaan4/static/media/oyang.0a8b1489d50d82f0643c.png",
+    "static/media/whatsapp-image-2021-07-22-at-20-46-08-jpeg": "/prcbaan4/static/media/whatsapp-image-2021-07-22-at-20-46-08-60f977217aa978226e73fc92.cabac9070789be44d6c8.jpeg",
+    "static/media/whatsapp.png": "/prcbaan4/static/media/whatsapp.c339ff504121f060e736.png",
+    "static/media/rrr.png": "/prcbaan4/static/media/rrr.df4cc5d3d06a504836dc.png",
+    "static/media/react.png": "/prcbaan4/static/media/react.cfb6554b97b50d8dd524.png",
+    "static/media/line.png": "/prcbaan4/static/media/line.b056a4efca9c769db287.png",
+    "static/media/telegram.png": "/prcbaan4/static/media/telegram.e9722f26cc228e817986.png",
+    "static/media/html5.png": "/prcbaan4/static/media/html5.df69503917a05a968e58.png",
+    "static/media/js.png": "/prcbaan4/static/media/js.621f6061172a58343b60.png",
+    "static/media/psychology-web-design-00-lead.jpg": "/prcbaan4/static/media/psychology-web-design-00-lead.0f434708ce10eac09057.jpg",
+    "static/media/dom.png": "/prcbaan4/static/media/dom.03a5d7065d385867dd7a.png",
+    "static/media/images (1).jpg": "/prcbaan4/static/media/images (1).4650fb0bb2b1386ffd52.jpg",
+    "index.html": "/prcbaan4/index.html",
+    "main.2b306b6c.css.map": "/prcbaan4/static/css/main.2b306b6c.css.map",
+    "main.d3ea40a5.js.map": "/prcbaan4/static/js/main.d3ea40a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b306b6c.css",
+    "static/js/main.d3ea40a5.js"
+  ]
+}
