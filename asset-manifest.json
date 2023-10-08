@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prcbaan4/static/css/main.2b306b6c.css",
-    "main.js": "/prcbaan4/static/js/main.77001633.js",
+    "main.js": "/prcbaan4/static/js/main.a952e5f5.js",
     "static/media/WhatsApp-about.png": "/prcbaan4/static/media/WhatsApp-about.5bfe0317626343ba384b.png",
     "static/media/Aplikasi-Belajar-Online-yang-Lengkap-Praktis-dan-Asyik.jpg": "/prcbaan4/static/media/Aplikasi-Belajar-Online-yang-Lengkap-Praktis-dan-Asyik.b0372a298dcd8a1f45ab.jpg",
     "static/media/manusia.png": "/prcbaan4/static/media/manusia.69dfb5057b8292f3fa2e.png",
@@ -19,10 +19,10 @@
     "static/media/images (1).jpg": "/prcbaan4/static/media/images (1).4650fb0bb2b1386ffd52.jpg",
     "index.html": "/prcbaan4/index.html",
     "main.2b306b6c.css.map": "/prcbaan4/static/css/main.2b306b6c.css.map",
-    "main.77001633.js.map": "/prcbaan4/static/js/main.77001633.js.map"
+    "main.a952e5f5.js.map": "/prcbaan4/static/js/main.a952e5f5.js.map"
   },
   "entrypoints": [
     "static/css/main.2b306b6c.css",
-    "static/js/main.77001633.js"
+    "static/js/main.a952e5f5.js"
   ]
 }
